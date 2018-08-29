@@ -32,6 +32,10 @@ In `maps` directory includes maps for fdf as examples
 
 `W / S` - make textures higher / lower
 
+`L` - to color the field
+
+`Esc` - exit
+
 ## Examples
 `Mars map (maps/mars.fdf)`
 ![Mars map (maps/mars.fdf)](https://drive.google.com/uc?authuser=0&id=1el-kzeXGvQoiPUwMbXqRMzSWK2sWfqRV&export=download)
