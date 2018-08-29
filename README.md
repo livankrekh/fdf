@@ -16,6 +16,23 @@
 ```
 In `maps` directory includes maps for fdf as examples
 
+## Controls
+
+`Enter` - turn on auto-rotation by x axis
+
+`Space` - turn on auto-rotation by y axis
+
+`Right arrow - Left arrow` - rotate map by x axis
+
+`Up arrow - Down arrow` - rotate map by y axis
+
+`Mouse scroll` - zoom map
+
+`Mouse buttons` - new center point of axises
+
+`W / S` - make textures higher / lower
+
+## Examples
 ![Mars map (maps/mars.fdf)](https://drive.google.com/uc?authuser=0&id=1el-kzeXGvQoiPUwMbXqRMzSWK2sWfqRV&export=download)
 
 ![Pylone map (maps/pylone.fdf)](https://drive.google.com/uc?authuser=0&id=1kVTQO8oCtps1Zf_S63KgI6PMQqJ3XF3D&export=download)
